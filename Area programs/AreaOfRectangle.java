@@ -1,6 +1,6 @@
 package area;
 
-public class Rectangle {
+public class AreaOfRectangle {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
