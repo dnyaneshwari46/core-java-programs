@@ -1,6 +1,6 @@
 package area;
 
-public class Square {
+public class AreaOfSquare {
 
 	public static void main(String[] args) {
 		int side=5;
